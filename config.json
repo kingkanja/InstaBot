@@ -1,9 +1,9 @@
 {
-	"username": "username",
-	"password": "password",
+	"username": "beautyinside20201",
+	"password": "j@KANJA#25",
 	"timezone": 0,
 	"friends": "input/friends.csv",
-	"tags": "input/tags.csv",
+	"tags": "tags2.csv",
 	"tags_to_avoid": "input/tags_to_avoid.csv",
 	"like_news_feed": false,
 	"likes_in_day": 500,
